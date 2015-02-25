@@ -25,3 +25,7 @@ $ ionic build ios
 $ ionic emulate ios
 ```
 More infos within the [Ionic Documentation](http://ionicframework.com/docs/)
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/logikinc/algoliasearch-ionic/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
